@@ -1,4 +1,6 @@
-###### Copyright © 2025 Code Jackal | Original Course Material by Chris Blakely
+# Java Spring Microservices Project
+
+Maintained by: sonu kumar (skbhati199@gmail.com)
 
 ---
 # Join the Discord Community
